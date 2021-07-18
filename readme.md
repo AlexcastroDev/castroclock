@@ -1,6 +1,6 @@
 # Oficial docs
 
-<a href="https://github.io/AlexcastroDev/castroclock-documentation" target="_blank">Documentation</a>
+<a href="https://alexcastrodev.github.io/castroclock-documentation/" target="_blank">Documentation</a>
 
 
 # Greetings
