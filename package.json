@@ -1,0 +1,22 @@
+{
+  "name": "castroclock-js",
+  "version": "0.0.3",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "rollup": "^2.53.2"
+  },
+  "scripts": {
+    "build": "rollup -c",
+    "test": "jest"
+  },
+  "devDependencies": {
+    "@rollup/plugin-typescript": "^8.2.3",
+    "@types/jest": "^26.0.24",
+    "jest": "^27.0.6",
+    "ts-jest": "^27.0.3",
+    "ts-node": "^10.1.0",
+    "tslib": "^2.3.0",
+    "typescript": "^4.3.5"
+  }
+}
